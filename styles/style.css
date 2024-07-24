@@ -322,6 +322,7 @@
 
 .step {
   width: 220px;
+  flex-basis: 220px;
   /* Agrega estilos */
 }
 
@@ -389,6 +390,7 @@
   text-decoration: none;
   display: flex;
   column-gap: 10px;
+  align-items: flex-start;
 }
 
 .footer__social-icon {

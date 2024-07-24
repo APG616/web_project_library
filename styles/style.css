@@ -321,7 +321,6 @@
 }
 
 .step {
-  flex-basis: auto;
   width: 220px;
   /* Agrega estilos */
 }
@@ -390,7 +389,6 @@
   text-decoration: none;
   display: flex;
   column-gap: 10px;
-  align-items: flex-end;
 }
 
 .footer__social-icon {
